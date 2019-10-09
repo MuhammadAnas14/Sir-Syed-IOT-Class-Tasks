@@ -46,3 +46,17 @@ Output:
 5 * 9 = 45
 5 * 10 = 50
 
+# CHAPTER # 4 OWNERSHIP
+
+Task#1
+
+Assign a variable s to PAKISTAN then make a function that takes s variable as parameter/argument but doesn’t take ownership of s variable and concatenates “ZINDABAD” in variable s to makes it “PAKISTAN ZINDABAD”. Print variable s after change
+
+Task#2
+
+Take a string input from user and store it in a variable then pass that variable in a function which returns you the length of the string. Print the length.
+Hint:
+Use std::io;
+let mut x = String::new();
+io::stdin.read_line(&mut x).expect(“invalid input”);
+
