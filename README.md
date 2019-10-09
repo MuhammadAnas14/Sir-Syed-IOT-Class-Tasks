@@ -1,6 +1,6 @@
 # Sir-Syed-Rust-Class-Task
 
-#CHAPTER # 3 FUNCTION
+# CHAPTER # 3 FUNCTION
 
 Task 1:
 Write a function that can take 3 ​ integer​ numbers as
