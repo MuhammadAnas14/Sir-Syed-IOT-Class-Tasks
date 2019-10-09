@@ -60,3 +60,53 @@ Use std::io;
 let mut x = String::new();
 io::stdin.read_line(&mut x).expect(“invalid input”);
 
+# CHAPTER # 5 STRUCTS
+
+TASK#1
+
+Make a custom data type named Employee using struct with following fields:
+	
+EMPLOYEE NO
+NAME
+EMAIL
+Gender
+PHONE NO
+active(boolean)
+
+Assign all five fields the appropriate data type in struct definition.
+
+Create 2 instances named Employee1 and Employee2 of Employee struct and print Name and phone no of  Employee1, print Employee_no and gender of Employee2 .Take  Gender and active of employee1 into employee2
+
+
+
+
+TASK#2
+
+Make a custom data type named Student using struct with following fields:
+	
+Name 
+Father_Name
+Class
+Grade
+
+Assign all four fields the appropriate data type in struct definition.
+
+Create a function which takes all four fields of struct as
+a parameters/argument and make instance named student1 of Student struct and print Name and class 
+Of Student.Print all the fields of student 1 
+
+Task#3
+Make a custom data type named  Triangle using struct with following fields:
+	
+base
+Heigth
+Type of the triangle
+
+Create an instance of that struct and pass it to t
+Make a function Area_of_circle which take the struct Triangle as a parameter  and calculate the area of triangle
+And return it.Create an instance of that struct and pass it to the function and print the type of the triangle and  the area of triangle in the main function.
+Hint:
+Area= ½ * base *heigth
+
+
+
