@@ -3,16 +3,19 @@
 # CHAPTER # 3 FUNCTION
 
 Task 1:
+
 Write a function that can take 3 ​ integer​ numbers as
 argument/parameter and ​ prints​ the sum of them 
 
 Task 2:
+
 Write a function that can take 3 ​ float​ numbers as
 argument/parameter and ​ returns​ the multiplication result of them. In the main function
 
 # CHAPTER # 3 CONTROL FLOW
 
-TASK#1
+TASK#1:
+
 Store marks in a variable and print the Grade of student.
 Marks Range:
 Greater than 80 - Grade A+
@@ -23,18 +26,22 @@ Between 40 and 50 - Grade D
 Below 40 - Grade F
 Hint [ condition 1 &&  condition 2 ]
 
-TASK#2
+TASK#2:
+
 Print even numbers using for loop. (till 20)
 Output: 2,4,6,8,10,12,....
 
-TASK#3
+TASK#3:
+
 Print odd numbers using while loop. (till 19)
 Output: 1,3,5,7,9,11
 
-TASK#4
+TASK#4:
+
 Store an integer (any value) in a variable and ​ print the table of that number using any loop. (till  * 12)
 
 Output:
+
 5 * 1 = 5
 5 * 2 = 10
 5 * 3 = 15
@@ -48,11 +55,11 @@ Output:
 
 # CHAPTER # 4 OWNERSHIP
 
-Task#1
+Task#1:
 
 Assign a variable s to PAKISTAN then make a function that takes s variable as parameter/argument but doesn’t take ownership of s variable and concatenates “ZINDABAD” in variable s to makes it “PAKISTAN ZINDABAD”. Print variable s after change
 
-Task#2
+Task#2:
 
 Take a string input from user and store it in a variable then pass that variable in a function which returns you the length of the string. Print the length.
 Hint:
@@ -62,15 +69,15 @@ io::stdin.read_line(&mut x).expect(“invalid input”);
 
 # CHAPTER # 5 STRUCTS
 
-TASK#1
+TASK#1:
 
 Make a custom data type named Employee using struct with following fields:
 	
-EMPLOYEE NO
-NAME
-EMAIL
-Gender
-PHONE NO
+EMPLOYEE NO,
+NAME,
+EMAIL,
+Gender,
+PHONE NO,
 active(boolean)
 
 Assign all five fields the appropriate data type in struct definition.
@@ -80,14 +87,14 @@ Create 2 instances named Employee1 and Employee2 of Employee struct and print Na
 
 
 
-TASK#2
+TASK#2:
 
 Make a custom data type named Student using struct with following fields:
 	
-Name 
-Father_Name
-Class
-Grade
+Name ,
+Father_Name,
+Class,
+Grade,
 
 Assign all four fields the appropriate data type in struct definition.
 
@@ -95,18 +102,58 @@ Create a function which takes all four fields of struct as
 a parameters/argument and make instance named student1 of Student struct and print Name and class 
 Of Student.Print all the fields of student 1 
 
-Task#3
+Task#3:
+
 Make a custom data type named  Triangle using struct with following fields:
 	
-base
-Heigth
-Type of the triangle
+base,
+Heigth,
+Type of the triangle,
 
 Create an instance of that struct and pass it to t
 Make a function Area_of_circle which take the struct Triangle as a parameter  and calculate the area of triangle
 And return it.Create an instance of that struct and pass it to the function and print the type of the triangle and  the area of triangle in the main function.
 Hint:
 Area= ½ * base *heigth
+
+# 6-Oct-2019 Class Initial Task
+
+Task#1
+
+Make a calculator:
+Make a custom data type named Entries using struct with following subject marks fields:
+Number1
+Number2 
+Operation
+You have to make the four function And pass the struct to it:
+Add
+Sub
+Mult
+Div
+In these four function you have to just return the answer of that operation
+In the main function You have to create an instance of that struct and Match the operation with control flow structure(If_else Structure) and call the function according to it and save it to variable and print the result
+
+# CHAPTER # 5 METHODS
+
+Task#1:
+
+Make a custom data type named Marks using struct with following subject marks fields:
+	
+English, 
+Science,
+Math,
+Pakistan_Studies,
+Urdu,
+
+Assign all five fields the appropriate data type in struct definition.
+
+Create two implementation block:
+
+ Total Marks,
+ Percentage
+
+Create an instance of the Student_marks and print the total marks and percentage of the Student.
+
 
 
 
