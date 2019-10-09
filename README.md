@@ -43,14 +43,23 @@ Store an integer (any value) in a variable and ​ print the table of that numbe
 Output:
 
 5 * 1 = 5
+
 5 * 2 = 10
+
 5 * 3 = 15
+
 5 * 4 = 20
+
 5 * 5 = 25
+
 5 * 6 = 30
+
 5 * 7 = 35
+
 5 * 8 = 40
+
 5 * 9 = 45
+
 5 * 10 = 50
 
 # CHAPTER # 4 OWNERSHIP
@@ -62,9 +71,13 @@ Assign a variable s to PAKISTAN then make a function that takes s variable as pa
 Task#2:
 
 Take a string input from user and store it in a variable then pass that variable in a function which returns you the length of the string. Print the length.
+
 Hint:
+
 Use std::io;
+
 let mut x = String::new();
+
 io::stdin.read_line(&mut x).expect(“invalid input”);
 
 # CHAPTER # 5 STRUCTS
@@ -73,11 +86,16 @@ TASK#1:
 
 Make a custom data type named Employee using struct with following fields:
 	
-EMPLOYEE NO,
-NAME,
-EMAIL,
-Gender,
-PHONE NO,
+EMPLOYEE NO
+
+NAME
+
+EMAIL
+
+Gender
+
+PHONE NO
+
 active(boolean)
 
 Assign all five fields the appropriate data type in struct definition.
@@ -85,16 +103,17 @@ Assign all five fields the appropriate data type in struct definition.
 Create 2 instances named Employee1 and Employee2 of Employee struct and print Name and phone no of  Employee1, print Employee_no and gender of Employee2 .Take  Gender and active of employee1 into employee2
 
 
-
-
 TASK#2:
 
 Make a custom data type named Student using struct with following fields:
 	
-Name ,
-Father_Name,
-Class,
-Grade,
+Name 
+
+Father_Name
+
+Class
+
+Grade
 
 Assign all four fields the appropriate data type in struct definition.
 
@@ -106,14 +125,17 @@ Task#3:
 
 Make a custom data type named  Triangle using struct with following fields:
 	
-base,
-Heigth,
-Type of the triangle,
+Base
 
-Create an instance of that struct and pass it to t
+Heigth
+
+Type of the triangle
+
 Make a function Area_of_circle which take the struct Triangle as a parameter  and calculate the area of triangle
 And return it.Create an instance of that struct and pass it to the function and print the type of the triangle and  the area of triangle in the main function.
+
 Hint:
+
 Area= ½ * base *heigth
 
 # 6-Oct-2019 Class Initial Task
@@ -121,15 +143,25 @@ Area= ½ * base *heigth
 Task#1
 
 Make a calculator:
+
 Make a custom data type named Entries using struct with following subject marks fields:
+
 Number1
+
 Number2 
+
 Operation
+
 You have to make the four function And pass the struct to it:
+
 Add
+
 Sub
+
 Mult
+
 Div
+
 In these four function you have to just return the answer of that operation
 In the main function You have to create an instance of that struct and Match the operation with control flow structure(If_else Structure) and call the function according to it and save it to variable and print the result
 
@@ -139,17 +171,22 @@ Task#1:
 
 Make a custom data type named Marks using struct with following subject marks fields:
 	
-English, 
-Science,
-Math,
+English 
+
+Science
+
+Math
+
 Pakistan_Studies,
-Urdu,
+
+Urdu
 
 Assign all five fields the appropriate data type in struct definition.
 
 Create two implementation block:
 
- Total Marks,
+ Total Marks
+
  Percentage
 
 Create an instance of the Student_marks and print the total marks and percentage of the Student.
