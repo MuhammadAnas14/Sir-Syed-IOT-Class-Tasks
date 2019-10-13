@@ -192,5 +192,64 @@ Create two implementation block:
 Create an instance of the Student_marks and print the total marks and percentage of the Student.
 
 
+# 13-Oct-2019 Class Initial Task
 
+Make a custom data type named Report Card of a University student using struct with following fields:
+
+GPA
+
+Grade
+
+Total_Marks
+
+Assign all Three fields the appropriate data type in struct definition.
+
+Make 4 instances of each year of his university graduation.
+
+Make two Arrays:
+
+One  will store all the  GPA and
+
+Other will store total marks  of all four year 
+
+Make 2 Function and pass the array as an argument without taking its ownership and return: 
+
+One Function will calculate highest Gpa using loops
+
+Other Total marks of all 4 year using loops
+
+Make an implementation block which compare two year gpa and returns true/false
+
+You have to print highest Gpa and overall marks and two comparition of two different year.
+
+Note:    Year1>Year2
+
+
+# CHAPTER # 6 ENUMS
+
+TASK#1:
+
+Define an enum for Vehicle where vehicles are of 3 variants i.e Cars, Trucks, Bikes.
+
+Assign some useful data directly into it 
+
+Create instances for all variants and also pass some data when creating instances.
+
+let a: Option<i32> = Some(5);
+
+Implement the above statement with enum of vehicle
+
+TASK#2
+
+Define an enum for Department where vehicles are of 3 variants i.e Civil, Electronic, Computer.
+
+Assign some useful data using struct:
+
+For example:
+
+No of Student
+
+No of Classes
+
+Create instances for all variants and also pass some data when creating instances.
 
