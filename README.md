@@ -253,3 +253,43 @@ No of Classes
 
 Create instances for all variants and also pass some data when creating instances.
 
+# 01-Nov-2019 Class Initial Task
+
+Make a custom data type enum Items  with following fields 
+
+Fruits
+
+Vegetables
+
+HousesHold Goods
+
+Make a custom data type struct Customer_details with following fields
+
+Name
+
+Phone no
+
+Address
+
+Define 2  function :-
+
+1)The first function  takes an instance of Items enum as a parameter and  return the price of the item using match operator.
+
+2)The second function takes an instance of the struck and prints all the details of customer
+
+You have to apply a infinity loop in which you have to take 4 inputs 
+
+1)Selection of items 
+
+2)Name 
+
+3)Phone no 
+
+4)Address
+
+Now you have to check it with control flow whether the user has selected fruits/vegetable/household and make an instance 
+
+of enum according to the selection of the user and pass it the function of price and print the price.
+
+Moreover, the last thing is to create an instance of struct and pass it to the function.
+
