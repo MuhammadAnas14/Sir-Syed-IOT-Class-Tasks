@@ -253,7 +253,7 @@ No of Classes
 
 Create instances for all variants and also pass some data when creating instances.
 
-# 01-Nov-2019 Class Initial Task
+# 03-Nov-2019 Class Initial Task
 
 Make a custom data type enum Items  with following fields 
 
