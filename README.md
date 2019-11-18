@@ -293,3 +293,21 @@ of enum according to the selection of the user and pass it the function of price
 
 Moreover, the last thing is to create an instance of struct and pass it to the function.
 
+# Chapter # 7 Crates
+
+Task#1
+
+Make 3 module with following name :
+
+Teachers
+
+Syllabus
+
+Time table
+
+In Every module  you  have to make a module and then you have to make 3  more function and print something in that.
+
+All have to imported in the main.rs file
+ 
+
+
