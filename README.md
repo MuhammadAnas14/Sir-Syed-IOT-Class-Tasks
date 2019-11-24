@@ -311,6 +311,8 @@ All have to imported in the main.rs file
  
 # Chapter # 7 Library
 
+Task#2
+
 Create a library of the following tree structure using lib.rs
 
 Crate
@@ -334,5 +336,35 @@ Crate
 			
 			power_function
 
+Import two or three function  in main.rs
 
+Hint: You can relate following tree diagram with a diagram in Chapter 7.2.
+
+# Chapter # 8 Vectors
+
+TASK # 1:
+
+Make a vector laptops and assigned some laptop companies to it like “dell”,”lenovo”.......
+
+Print the whole vector and calculate its length and print it
+
+Now make a new  vector and insert some prices of laptop into it 
+
+Use the loop and extract the price  and add 5% tax to it and print it one by one
+
+Use the get() method and print the last item of laptops by match method
+
+# Chapter # 8 String
+
+TASK # 2 
+
+Create a new empty string “japanese” and push " language"  to it.
+
+Make "السالم "علیكم to string type and assign it to another variable “arabic”.
+
+Concatenate the above variables and store them to a third variable “jap_ara”.
+
+Update the variable “jap_ara” with a character ‘!’ and print it.
+
+Use for loop to print characters and bytes of the variable “arabic”.
 
