@@ -309,5 +309,30 @@ In Every module  you  have to make a module and then you have to make 3  more fu
 
 All have to imported in the main.rs file
  
+# Chapter # 7 Library
+
+Create a library of the following tree structure using lib.rs
+
+Crate
+	
+	Calculator_functions
+	
+		Basic_functions
+			Add
+
+			Subtract
+			
+			Divide
+			
+			Multiply
+
+		Power_functions
+
+			Square_function
+
+			Cube_function
+			
+			power_function
+
 
 
