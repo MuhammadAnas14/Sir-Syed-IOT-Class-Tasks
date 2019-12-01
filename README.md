@@ -368,3 +368,43 @@ Update the variable “jap_ara” with a character ‘!’ and print it.
 
 Use for loop to print characters and bytes of the variable “arabic”.
 
+# 01-Dec-2019 Class Initial Task
+
+Task#1
+
+Generate a Vector of 100 random floats between 0 and 900. Find out how many of the random numbers are
+
+between 0 to 300, 300 to 600, and above 600.
+
+Task#2
+
+Generate a random integer vector between 0 to 100 and keep on adding numbers to the vector until a number greater than 90 
+
+is generated. Once the vector is generated sort it.
+
+Task#3
+
+Write a program that simulates a dice roll by picking a random number from 1-6 and then picking a second random number from 
+
+1-6. Add the two values together, and display the total.
+
+# CHAPTER # 8 HASH MAPS
+
+TASK#1
+
+Create a HashMap with name Team_scores and insert three teams as keys and their runs as the values.
+
+[Pakistan: 250, New Zealand:309, England:224]
+
+Take two 2 input of team and score
+
+Add the team as key as team input with its runs as value as score input it might be any team from the above given 
+
+teams or it might be some new team of your choice. But if it's from the above given teams then the runs should not be 
+
+updated and if it's another team other the hashmap then the runs and team should add. 
+
+(HINT entry() , or_insert() )
+
+Print the whole hash maps and print the hash maps using for loop one by one entries
+
