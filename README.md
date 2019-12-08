@@ -408,3 +408,57 @@ updated and if it's another team other the hashmap then the runs and team should
 
 Print the whole hash maps and print the hash maps using for loop one by one entries
 
+# 08-Dec-2019 Class Initial Task
+
+Develop a furniture market buying system  that will consist of the following items :
+
+	Bed
+	Sofa set
+	Dressing Table
+
+Each item will be of different companies and will be stored in a hashmap that will consist of companies name and prices 
+
+Each customer will come and buy any item it can be more than one item
+
+In last you just have to print the receipt that include customer name ,phone no and item brought
+
+Expected Output
+
+Output1
+
+	What do you want to buy(1,2,3):1
+
+	Which company(1,2,3):2
+
+	Anything else(yes/no):no
+
+	name:Anas
+
+	Phone no:033288388
+
+Output2
+
+	What do you want to buy(1,2,3):1
+
+	Which company(1,2,3):2
+
+	Anything else(yes/no):yes
+
+	What do you want to buy(1,2,3):2
+
+	Which company(1,2,3):3
+
+	name:Anas
+
+	Phone no:033288388
+
+Your Recipt:
+
+	Customer Name :
+
+	Phone No:
+
+	Item Bought:
+
+	Total price:
+
