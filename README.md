@@ -466,3 +466,44 @@ Your Recipt:
 
 ## Assignment #2 Is On The Repositry Folder In PDF Form
 
+# Chapter # 10 Traits
+
+
+Implement the PythagorasTheorem:
+P2 + B2 = H2
+
+Make a  Custom Generic struct  Data type Right Angle Triangle and make 2 Entities:
+
+1. Base
+ 
+2. Perpendicular
+
+Imp One Implementation Block:
+
+One is that calculate and return hypotenuse
+
+Just Print two two examples of that. 
+
+TASK # 2
+
+Write a program which consist of user defined data type “Book” with fields author and publisher.
+
+1. The Instance of Book should be created from associated function. Create an impl block for Book and define associated 
+
+function in that block.
+
+2. Create Trait Book Information and declare a method signature info which takes self as a parameter and String as a 
+
+return type in it.
+
+3. Create another impl block that implements Book_information trait on Book type.Implement a method “info” that returns 
+
+the author and the publisher of the book.
+
+4. Make an function that takes trait  “Book Information” and print the date along with author and the publisher of the 
+
+book. 
+
+5. Print the output in main function.
+
+
