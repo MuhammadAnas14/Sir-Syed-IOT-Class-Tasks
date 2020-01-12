@@ -1,0 +1,13 @@
+[package]
+name = "mathfunc"
+version = "0.1.0"
+authors = ["Anas452 <anasm9877@gmail.com>"]
+edition = "2018"
+description = "Two module of math basic function"
+license = "MIT"
+repository  = "https://github.com/MuhammadAnas14/math-function-crate"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
