@@ -506,4 +506,18 @@ book.
 
 5. Print the output in main function.
 
+## Crates.io
+
+All codes done on Crates.io 
+
+## Chapter # 10 CLosures
+
+TASK # 1
+
+Make a closure that will return the sum of two numbers.
+
+Task # 2
+
+Make a closure that will return true for prime number and false for non-prime number.
+
 
